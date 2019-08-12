@@ -1,6 +1,6 @@
 Kangbo trading platform official API documentation
 ==================================================
-[Kangbo]()Trading platform developer documentation([English Docs]())。
+[Kangbo]()Trading platform developer documentation([中文文档](./REST_API_CN.md))。
 <!-- TOC -->
 - [Introduction ](#Introduction )
 - [Start to use](#Start to use)
