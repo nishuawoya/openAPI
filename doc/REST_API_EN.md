@@ -3,7 +3,7 @@ Kangbo trading platform official API documentation
 [Kangbo]()Trading platform developer documentation([中文文档](./REST_API_CN.md))。
 
 - [Introduction](#Introduction)
-- [Start to use](#Start to use)
+- [Start to use](#Start)
 - [API interface encryption verification](#api interface encryption verification)
     - [Generate API Key](#Generate api-key)
     - [Propose request](#Propose request)
